@@ -2,7 +2,8 @@
 www.dio.me
 
 #### Autores
-- [Gleyson Sampaio](https://github.com/glysns)
+- [Jessé Henrique](https://github.com/henriquejessex)
+Minha resolução do exercicio proposto.
 
 ## Sintaxe - Desafio
 
